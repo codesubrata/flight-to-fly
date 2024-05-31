@@ -14,11 +14,10 @@ FlightToFly is a sophisticated and user-friendly flight booking application buil
    - **Flight Listings**: Display a list of matching flights based on user search criteria.
    - **Booking Process**: Seamless transition from flight search to booking for logged-in users.
 3. **User-Friendly Interface**:
-   - **Responsive Design**: Ensures the application is accessible and functional on various devices, including desktops, tablets, and smartphones.
    - **Dynamic Form Handling**: Real-time form validation and feedback for input fields.
 4. **User Account Management**:
    - **Profile and History**: Users can view their booking history and manage their account details.
-   - **Logout Functionality**: Secure logout that ensures session data is cleared.
+   - **Logout Functionality**: Logout functionality.
 5. **Data Handling**:
    - **Context API**: Efficient state management using React's Context API for sharing data across components.
    - **JSON Data Integration**: Use of JSON files to simulate real flight data, enhancing development and testing.
