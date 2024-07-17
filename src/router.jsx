@@ -53,5 +53,7 @@ const routes = [
   },
 ];
 
-const router = createBrowserRouter(routes);
+const router = createBrowserRouter(routes, {
+  basename: "/flight-to-fly",
+});
 export default router;
